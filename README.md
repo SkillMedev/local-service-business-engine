@@ -9,7 +9,7 @@ Reach for this when you run a local service business — trades, clinics, salons
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/local-service-business-engine](https://skillme.dev/pack/local-service-business-engine) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/local-service-business-engine`
+- **With the skills CLI:** `npx skills add SkillMedev/local-service-business-engine`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
