@@ -1,16 +1,17 @@
 # Local Service Business Engine
 
-**For local service owners: win the map pack, the reviews, and every quote you send.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For local service owners: win the map pack, the reviews, and every quote you send.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-local-service-business-engine).
 
 Reach for this when you run a local service business - trades, clinics, salons, home services - and growth depends on Google visibility, review velocity, and follow-up speed rather than a national funnel. It covers the local loop end to end: optimize the Google Business Profile that is your real storefront, build a review engine that generates and answers reviews systematically, rank in the map pack with local SEO that avoids doorway-page spam, chase every quote with a cadence that closes same-week, cut no-shows with a reminder ladder, and turn happy customers into referrals and trade partnerships. The money model skill computes cost per acquired customer and a self-funding verdict so spend decisions stop being guesses. One worked example - a four-tech plumbing company - threads through every skill.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/local-service-business-engine](https://skillme.dev/pack/local-service-business-engine) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/local-service-business-engine?utm_source=github&utm_medium=readme&utm_campaign=pack-local-service-business-engine) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add local-unit-economics google-business-profile-optimizer review-engine local-seo-playbook quote-follow-up-sequences no-show-reduction local-referral-engine --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/local-service-business-engine`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Reach for this when you run a local service business - trades, clinics, salons, 
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-local-service-business-engine).
